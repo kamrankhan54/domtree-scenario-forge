@@ -1,6 +1,6 @@
 {
   "name": "domtree-scenario-forge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "## AI-powered Gherkin scenario generator — transforming requirements and acceptance criteria into structured, test-ready BDD scenarios.",
   "main": "index.js",
   "scripts": {
