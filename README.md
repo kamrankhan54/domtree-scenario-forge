@@ -1,4 +1,4 @@
-# Domtree Scenario Forge
+# Scenario Forge by domtree.com
 
 ## AI-powered Gherkin scenario generator — transforming requirements and acceptance criteria into structured, test-ready BDD scenarios.
 
