@@ -1,10 +1,10 @@
-# Scenario Forge by domtree.com
+# Gherkin Generator by domtree.com
 
 ## AI-powered Gherkin scenario generator — transforming requirements and acceptance criteria into structured, test-ready BDD scenarios.
 
 💡 Core Idea
 
-Scenario Forge reads requirement documents (.docx, .pdf, .txt, or .md) and automatically creates Gherkin-formatted BDD scenarios (Given–When–Then) that reflect the user stories, acceptance criteria, and product intent described inside.
+Gherkin Generator reads requirement documents (.docx, .pdf, .txt, or .md) and automatically creates Gherkin-formatted BDD scenarios (Given–When–Then) that reflect the user stories, acceptance criteria, and product intent described inside.
 
 This directly bridges product documentation → automated testing, removing ambiguity between PMs, developers, and QAs.
 
@@ -31,7 +31,7 @@ OPENAI_API_KEY=sk-...
 
 ### How to use 
 
-You can run Scenario Forge directly from your terminal using npx or locally from your project.
+You can run Gherking Generator directly from your terminal using npx or locally from your project.
 
 🪜 Step-by-Step Example
 1️⃣ Add a sample requirements document
